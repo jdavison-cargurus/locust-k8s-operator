@@ -25,8 +25,6 @@ public class Constants {
         + "--master --master-port=%d "
         // Number of workers to wait for before starting the test
         + "--expect-workers=%d "
-        // Auto start the test while keeping the UI available
-        + "--autostart --autoquit 60 "
         // Allow to automatically rebalance users if new workers are added or removed during a test run.
         + "--enable-rebalancing "
         // Log only the summary
