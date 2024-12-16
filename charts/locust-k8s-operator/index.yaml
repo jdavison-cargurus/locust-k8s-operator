@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  locust-k8s-operator:
+  - apiVersion: v2
+    appVersion: 0.11.0
+    created: "2024-12-16T16:13:57.895944-05:00"
+    description: Locust Kubernetes Operator
+    digest: 8a8e710be8926d5f88c76704d6edaf9e7a2ca827750e8f4a1b6618ba290ea636
+    name: locust-k8s-operator
+    type: application
+    urls:
+    - https://jdavison-cargurus.github.io/locust-k8s-operator/locust-k8s-operator-0.11.0.tgz
+    version: 0.11.0
+generated: "2024-12-16T16:13:57.895374-05:00"
